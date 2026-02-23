@@ -1,13 +1,13 @@
-public class obj 
+public class Obj 
 {
     private String nombre;
     private double vr;
     private int cant;
 
-    public obj() {
+    public Obj() {
     }
 
-    public obj(String nombre, double vr, int cant) 
+    public Obj(String nombre, double vr, int cant) 
     {
         this.nombre = nombre;
         this.vr = vr;
